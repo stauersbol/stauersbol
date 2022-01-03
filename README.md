@@ -10,4 +10,7 @@ I love the process of making websites and web apps. I'm a fast learner and I'm a
 I always try and learn something new and challenge myself to learn new things.
 
 ### 🔗 Connect with me on:
-<a href="https://www.linkedin.com/in/lukas-stauersbol/"><img align="left" src="" alt="Lukas Stauersbøl | LinkedIn">
+<a href="https://www.linkedin.com/in/lukas-stauersbol/"><img align="left" src="" alt="Lukas Stauersbøl | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/lukas_stauersbol"><img align="left" src="" alt="Lukas Stauersbøl | Instagram" width="21px"/></a>
+
+</br>
