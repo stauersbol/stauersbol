@@ -14,3 +14,13 @@ I always try and learn something new and challenge myself to learn new things.
 <a href="https://www.instagram.com/lukas_stauersbol"><img align="left" src="" alt="Lukas Stauersbøl | Instagram" width="21px"/></a>
 
 </br>
+- 💬 If you have any questions, feel free to contact me.
+
+## 🔭 Currently I'm working on:
+- Redesign of my website
+- Crypto Protfolio Tracker [here](https://github.com/thomasnyma/crypto-portfolio-tracker)
+
+
+## 🌱 Currenctly learning:
+- 💚 Nuxt.js
+- ❤ NestJS
