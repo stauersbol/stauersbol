@@ -13,7 +13,7 @@ I always try and learn something new and challenge myself to learn new things.
 <a href="https://www.linkedin.com/in/lukas-stauersbol/"><img align="left" src="" alt="Lukas Stauersbøl | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lukas_stauersbol"><img align="left" src="" alt="Lukas Stauersbøl | Instagram" width="21px"/></a>
 
-</br>
+<br>
 - 💬 If you have any questions, feel free to contact me.
 
 ## 🔭 Currently I'm working on:
