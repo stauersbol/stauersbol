@@ -27,7 +27,7 @@ I always try and learn something new and challenge myself to learn new things.
 - Prisma
 
 ## 💼 Technologies I'm familiar with
-![](https://img.shields.io/badge/JavaScript-ES6-blue.svg)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 ## 📈 Github Stats
 [![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue)](https://github.com/slash1y)
