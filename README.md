@@ -18,7 +18,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 </br>
 
 
-- 💬 If you have any questions, feel free to contact me.
+💬 If you have any questions, feel free to contact me.
 
 ## 🔭 Currently I'm working on
 - Redesign of my website
