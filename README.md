@@ -60,4 +60,4 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 ## 📈 Github Stats
 [![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue)](https://github.com/slash1y)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8)](https://github.com/slash1y)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue)](https://github.com/slash1y)
