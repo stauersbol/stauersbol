@@ -1,5 +1,5 @@
 <h3 align="center">
-Hello there!👋 I'm <a href="https://lukasstauersboel.dk" target="_blank" rel="noreferrer">Lukas Stauersbøl</a>🙍‍♂️
+Hello there!👋 I'm <a target="_blank" href="https://lukasstauersboel.dk" rel="noreferrer">Lukas Stauersbøl</a>🙍‍♂️
 </h3>
 
 <h2 align="center">
