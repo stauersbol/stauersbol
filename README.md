@@ -31,3 +31,4 @@ I always try and learn something new and challenge myself to learn new things.
 
 ## 📈 Github Stats
 [![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y)](https://github.com/slash1y)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slash1y&layout=compact)](https://github.com/slash1y)
