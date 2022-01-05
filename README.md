@@ -64,4 +64,80 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2059%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 40 Contributions in the Year 2022
+ > 
+> 📦 12.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    151 commits    ██████████░░░░░░░░░░░░░░░   40.48% 
+🌆 Daytime    176 commits    ███████████░░░░░░░░░░░░░░   47.18% 
+🌃 Evening    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       109 commits    ███████░░░░░░░░░░░░░░░░░░   29.22% 
+Tuesday      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+Thursday     81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+Sunday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             █████████████░░░░░░░░░░░░   54.55% 
+C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Slash1y/Slash1y/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
