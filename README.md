@@ -62,3 +62,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 [![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue)](https://github.com/slash1y)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue)](https://github.com/slash1y)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=slash1y.slash1y)](https://www.lukasstauersboel.dk/)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
