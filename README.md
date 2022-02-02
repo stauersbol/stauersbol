@@ -26,6 +26,8 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <p align="left">
 💬 If you have any questions, feel free to contact me.
 </p>
+
+<br/>
 <p align="left">
 <h2 align="left"> 🔭 Currently I'm working on</h2>
 - Redesign of my website
