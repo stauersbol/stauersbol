@@ -64,10 +64,10 @@ I also watch anime 📺 and other types of series during my free time if I am no
 ## 📈 Github Stats
 <p align="center">
 [![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue)](https://github.com/slash1y)
-</p>
+
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue)](https://github.com/slash1y)
-</p>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
