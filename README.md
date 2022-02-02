@@ -12,8 +12,8 @@ I always try and learn something new and challenge myself to learn new things.
 I also watch anime 📺 and other types of series during my free time if I am not actively coding. I also play video games 🎮 here I play, CSGO, Valorant and more.
 
 ### 🔗 Connect with me on
-<a href="https://www.linkedin.com/in/lukas-stauersbol/"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="18px"/></a>
-<a href="https://www.instagram.com/lukas_stauersbol"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="18px"/></a>
+<a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="18px"/></a>
+<a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="18px"/></a>
 
 </br>
 
@@ -63,11 +63,11 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 ## 📈 Github Stats
 <p align="center">
-[![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue)](https://github.com/slash1y)
-
+<a href="https://github.com/slash1y" target="_blank"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue" alt="Lukas's Github Stats" /></a>
+</p>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue)](https://github.com/slash1y)
-
+<a href="https://github.com/slash1y" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue" alt="Top Langs" /></a>
+</p>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
