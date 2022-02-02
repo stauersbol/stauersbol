@@ -17,8 +17,11 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 </br>
 
-### 🎧 My Discord
+<p align="left">
+<h3 align="left">🎧 My Discord</h3>
 <img align="left" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
+</p>
+
 
 <p align="left">
 💬 If you have any questions, feel free to contact me.
