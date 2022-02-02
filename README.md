@@ -24,7 +24,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 💬 If you have any questions, feel free to contact me.
 </p>
 <p align="left">
-## 🔭 Currently I'm working on
+<h2 align="left"> 🔭 Currently I'm working on</h2>
 - Redesign of my website
 - Crypto Protfolio Tracker [here](https://github.com/thomasnyma/crypto-portfolio-tracker)
 </p>
