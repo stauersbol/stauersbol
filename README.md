@@ -35,9 +35,11 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <h2 align="left"> 🔭 Currently I'm working on</h2>
 <p align="left">
 - Redesign of my website
- - Crypto Protfolio Tracker <a href=""https://github.com/thomasnyma/crypto-portfolio-tracker>here</a>
+ </p>
+ <p align="left">
+- Crypto Protfolio Tracker <a href=""https://github.com/thomasnyma/crypto-portfolio-tracker>here</a>
 </p>
-
+ 
 ## 🌱 Currenctly learning
 - 💚 Nuxt.js
 - ❤ NestJS
