@@ -15,7 +15,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="18px"/></a>
 <a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="18px"/></a>
 
-</br>
+<br/>
 
 <p align="left">
 <h3 align="left">🎧 My Discord</h3>
@@ -23,6 +23,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 </p>
 
 
+<br/>
 <br/>
 
 <p align="left">
