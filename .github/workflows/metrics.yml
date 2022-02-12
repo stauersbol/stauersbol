@@ -21,7 +21,7 @@ jobs:
         with:
           filename: metrics.plugin.personal.anilist.svg
           token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GD_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
