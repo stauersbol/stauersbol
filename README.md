@@ -17,17 +17,18 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 <br/>
 
-<p>
- <h3>📺 Anime</h3>
- <img width="500px" src="metrics.plugin.personal.anilist.svg" src="https://anilist.co/user/slashiy/" />
-</p>
-
 <p align="left">
 <h3 align="left">🎧 My Discord</h3>
-<img align="left" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
+<img align="left" height="70px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
+</p>
+
+<p align="right">
+ <h3 align="right">📺 Anime</h3>
+ <img align="right" width="500px" src="metrics.plugin.personal.anilist.svg" src="https://anilist.co/user/slashiy/" />
 </p>
 
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -36,6 +37,8 @@ I also watch anime 📺 and other types of series during my free time if I am no
 💬 If you have any questions, feel free to contact me.
 </p>
 
+<br/>
+<br/>
 <br/>
 <h2 align="left"> 🔭 Currently I'm working on</h2>
 <p align="left">
