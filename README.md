@@ -23,6 +23,8 @@ I also watch anime 📺 and other types of series during my free time if I am no
 </p>
 <img align="right" width="500px" src="metrics.plugin.personal.anilist.svg" src="https://anilist.co/user/slashiy/" />
 
+<br/>
+<br/>
 <p align="left">
 💬 If you have any questions, feel free to contact me.
 </p>
