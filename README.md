@@ -110,17 +110,16 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Vue.js                   34 mins             █████████████████████████   99.59% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TravelityWebsite         34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
