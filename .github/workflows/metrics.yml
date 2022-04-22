@@ -19,7 +19,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.personal.anilist.svg
+          filename: metrics/metrics.plugin.personal.anilist.svg
           token: NOT_NEEDED
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
