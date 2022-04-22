@@ -21,7 +21,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <h3 align="left">🎧 My Discord</h3>
 <img align="left" height="70px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
 </p>
-<img align="right" width="500px" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/metrics/metrics.plugin.personal.anilist.svg" src="https://anilist.co/user/slashiy/" />
+<img align="right" width="500px" src="metrics.plugin.personal.anilist.svg" src="https://anilist.co/user/slashiy/" />
 
 <br/>
 <br/>
