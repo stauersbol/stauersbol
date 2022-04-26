@@ -21,6 +21,7 @@ jobs:
         with:
           filename: metrics.plugin.personal.anilist.svg
           token: NOT_NEEDED
+          base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters, watching
