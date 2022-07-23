@@ -112,14 +112,13 @@ Sunday       72 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Markdown                 21 mins             ██████████████████░░░░░░░   72.48% 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.52%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
