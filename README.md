@@ -1,5 +1,5 @@
 <h3 align="center">
-Hello there!👋 I'm <a target="_blank" href="https://lukasstauersboel.dk" rel="noreferrer">Lukas Stauersbøl</a>🙍‍♂️
+Hello there!👋 I'm <a target="_blank" href="https://stauersbol.me" rel="noreferrer">Lukas Stauersbøl</a>🙍‍♂️
 </h3>
 
 <h2 align="center">
@@ -80,10 +80,10 @@ I also watch anime 📺 and other types of series during my free time if I am no
 
 ## 📈 Github Stats
 <p align="center">
-<a href="https://github.com/slash1y" target="_blank"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=slash1y&count_private=true&show_icons=true&theme=vue" alt="Lukas's Github Stats" /></a>
+<a href="https://github.com/slash1y" target="_blank"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=stauersbol&count_private=true&show_icons=true&theme=vue" alt="Lukas's Github Stats" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/slash1y" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slash1y&layout=compact&langs_count=8&theme=vue" alt="Top Langs" /></a>
+<a href="https://github.com/slash1y" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stauersbol&layout=compact&langs_count=8&theme=vue" alt="Top Langs" /></a>
 </p>
 
 <!--START_SECTION:waka-->
