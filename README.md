@@ -33,16 +33,15 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <br/>
 <h2 align="left"> 🔭 Currently I'm working on</h2>
 <p align="left">
-- Redesign of my website
+- Rework of my website and API for the website.
+- Working on company projects
  </p>
  <p align="left">
 - Crypto Protfolio Tracker <a href=""https://github.com/thomasnyma/crypto-portfolio-tracker>here</a>
 </p>
  
 ## 🌱 Currenctly learning
-- 💚 Nuxt.js
-- ❤ NestJS
-- 💙 Prisma
+- 💙 React/Next
 
 ## 💼 Technologies I'm familiar with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
