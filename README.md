@@ -42,6 +42,7 @@ I also watch anime 📺 and other types of series during my free time if I am no
  
 ## 🌱 Currenctly learning
 - 💙 Go
+- 🧡 Rust
 
 ## 💼 Technologies I'm familiar with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
