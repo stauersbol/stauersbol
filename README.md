@@ -80,6 +80,14 @@ I also watch anime 📺 and other types of series during my free time if I am no
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white)
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
