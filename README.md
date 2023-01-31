@@ -82,14 +82,6 @@ I also watch anime 📺 and other types of series during my free time if I am no
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white)
 
-## 📈 Github Stats
-<p align="center">
-<a href="https://github.com/slash1y" target="_blank"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=stauersbol&count_private=true&show_icons=true&theme=vue" alt="Lukas's Github Stats" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/slash1y" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stauersbol&layout=compact&langs_count=8&theme=vue" alt="Top Langs" /></a>
-</p>
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
