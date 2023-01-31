@@ -36,8 +36,6 @@ I also watch anime 📺 and other types of series during my free time if I am no
 - Rework of my website and API for the website.
 - Working on company projects
  </p>
- <p align="left">
-- Crypto Protfolio Tracker <a href=""https://github.com/thomasnyma/crypto-portfolio-tracker>here</a>
 </p>
  
 ## 🌱 Currenctly learning
