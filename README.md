@@ -80,17 +80,9 @@ I also watch anime 📺 and other types of series during my free time if I am no
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white)
 
-### My anime
-<a href="https://anilist.co/user/slashiy/"><img align="center" width="500px" src="metrics.plugin.personal.anilist.svg" /></a>
+### What anime I am watching
+<a href="https://anilist.co/user/slashiy/" align="center"><img align="center" width="500px" src="metrics.plugin.personal.anilist.svg" /></a>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <!--START_SECTION:waka-->
