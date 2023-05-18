@@ -3,7 +3,7 @@ Hello there!👋 I'm <a target="_blank" href="https://stauersbol.me" rel="norefe
 </h3>
 
 <h2 align="center">
-I'm a Frontend Developer 💻 with a passion for UI/UX 🎨 and a love for coding.
+I'm a Software Engineer 💻 with a passion for UI/UX 🎨 and a love for coding.
 </h2>
 
 I love the process of making websites and web apps. I'm a fast learner and I'm always looking for new ways to improve myself.
@@ -12,16 +12,15 @@ I always try and learn something new and challenge myself to learn new things.
 I also watch anime 📺 and other types of series during my free time if I am not actively coding. I also play video games 🎮 here I play, CSGO, Valorant and more.
 
 ### 🔗 Connect with me on
-<a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="18px"/></a>
-<a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Slash1y/Slash1y/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="18px"/></a>
+<a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="30px"/></a>
+<a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="30px"/></a>
 
 <br/>
 
-<p align="left">
+<p align="center">
 <h3 align="left">🎧 My Discord</h3>
 <img align="left" height="55px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
 </p>
-<a href="https://anilist.co/user/slashiy/"><img align="right" width="500px" src="metrics.plugin.personal.anilist.svg" /></a>
 
 <br/>
 <br/>
@@ -30,11 +29,12 @@ I also watch anime 📺 and other types of series during my free time if I am no
 💬 If you have any questions, feel free to contact me.
 </p>
 
-<br/>
 <h2 align="left"> 🔭 Currently I'm working on</h2>
 <p align="left">
-- Rework of my website and API for the website.
-- Working on company projects
+ 
+ - Rework of my website and API for the website.
+ 
+ - Working on company projects
  </p>
 </p>
  
@@ -80,17 +80,10 @@ I also watch anime 📺 and other types of series during my free time if I am no
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white)
 
+### My anime
+<a href="https://anilist.co/user/slashiy/"><img align="center" width="500px" src="metrics.plugin.personal.anilist.svg" /></a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
