@@ -1,16 +1,3 @@
-<h3 align="center">
-Hello there!👋 I'm <a target="_blank" href="https://stauersbol.me" rel="noreferrer">Lukas Stauersbøl</a>🙍‍♂️
-</h3>
-
-<h2 align="center">
-I'm a Software Engineer 💻 with a passion for UI/UX 🎨 and a love for coding.
-</h2>
-
-I love the process of making websites and web apps. I'm a fast learner and I'm always looking for new ways to improve myself.
-I always try and learn something new and challenge myself to learn new things.
-
-I also watch anime 📺 and other types of series during my free time if I am not actively coding. I also play video games 🎮 here I play, CSGO, Valorant and more.
-
 ### 🔗 Connect with me on
 <a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="30px"/></a>
 <a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="30px"/></a>
@@ -18,29 +5,21 @@ I also watch anime 📺 and other types of series during my free time if I am no
 <br/>
 
 <p align="center">
-<h3 align="left">🎧 My Discord</h3>
-<img align="left" height="55px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
+ <h3>🎧 My Discord</h3>
+ <img align="left" height="55px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
 </p>
 
 <br/>
 <br/>
 <br/>
-<p align="left">
 💬 If you have any questions, feel free to contact me.
-</p>
 
-<h2 align="left"> 🔭 Currently I'm working on</h2>
-<p align="left">
- 
- - Rework of my website and API for the website.
- 
- - Working on company projects
- </p>
-</p>
+## 🔭 Currently I'm working on
+- Rework of my website and API for the website.
+- Working on company projects
  
 ## 🌱 Currenctly learning
 - 💙 Go
-- 🧡 Rust
 
 ## 💼 Technologies I'm familiar with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
