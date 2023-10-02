@@ -2,8 +2,6 @@
 <a href="https://www.instagram.com/lukas_stauersbol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/instagram.svg" alt="Lukas Stauersbøl | LinkedIn" width="30px"/></a>
 <a href="https://www.linkedin.com/in/lukas-stauersbol/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/stauersbol/stauersbol/main/images/linkedin.svg" alt="Lukas Stauersbøl | Instagram" width="30px"/></a>
 
-<br/>
-
 <p align="center">
  <h3>🎧 My Discord</h3>
  <img align="left" height="55px" src="https://discord.c99.nl/widget/theme-2/147806323323568128.png" alt="My Discord" />
