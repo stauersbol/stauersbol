@@ -53,14 +53,13 @@ Sunday                   726 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Svelte                   6 mins              ██████████████████░░░░░░░   72.69 % 
-Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
