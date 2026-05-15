@@ -26,45 +26,5 @@
 <br/>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5387 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌆 Daytime                7737 commits        ████████████░░░░░░░░░░░░░   46.51 % 
-🌃 Evening                3415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3269 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Tuesday                  2788 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Thursday                 2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Saturday                 664 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Sunday                   850 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Copenhagen
-
-💬 Programming Languages: 
-Vue                      7 hrs 18 mins       ███████████████████░░░░░░   74.35 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-conf                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-
-🔥 Editors: 
-Neovim                   9 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    9 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
