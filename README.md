@@ -26,5 +26,43 @@
 <br/>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌆 Daytime                7710 commits        ████████████░░░░░░░░░░░░░   46.46 % 
+🌃 Evening                3400 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3269 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Saturday                 626 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Sunday                   830 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+Vue                      19 mins             ██████████████░░░░░░░░░░░   54.92 % 
+YAML                     11 mins             ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+
+🔥 Editors: 
+Neovim                   35 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    35 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
