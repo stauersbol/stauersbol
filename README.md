@@ -29,21 +29,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌆 Daytime                7710 commits        ████████████░░░░░░░░░░░░░   46.44 % 
-🌃 Evening                3406 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌆 Daytime                7710 commits        ████████████░░░░░░░░░░░░░   46.42 % 
+🌃 Evening                3415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3269 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Monday                   3278 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 Saturday                 626 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Sunday                   836 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Sunday                   836 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 
@@ -53,17 +53,17 @@ Sunday                   836 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               2 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.61 % 
-Go                       37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+JavaScript               2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+Go                       1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 33 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
