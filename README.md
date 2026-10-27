@@ -31,7 +31,7 @@
 ```text
 🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
 🌆 Daytime                7710 commits        ████████████░░░░░░░░░░░░░   46.42 % 
-🌃 Evening                3415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌃 Evening                3414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -39,11 +39,11 @@
 ```text
 Monday                   3278 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
 Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 Saturday                 626 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Sunday                   836 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Sunday                   835 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 
@@ -53,14 +53,15 @@ Sunday                   836 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JSON                     20 mins             ███████████████████░░░░░░   75.12 % 
-JavaScript               6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+JavaScript               1 hr 18 mins        ████████████████████░░░░░   79.06 % 
+JSON                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   27 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
