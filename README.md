@@ -30,8 +30,8 @@
 
 ```text
 🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌆 Daytime                7710 commits        ████████████░░░░░░░░░░░░░   46.42 % 
-🌃 Evening                3414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌆 Daytime                7711 commits        ████████████░░░░░░░░░░░░░   46.42 % 
+🌃 Evening                3414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -39,11 +39,11 @@
 ```text
 Monday                   3278 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
 Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 Saturday                 626 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Sunday                   835 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Sunday                   836 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 
@@ -53,16 +53,17 @@ Sunday                   835 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ███████████████████░░░░░░   74.99 % 
-JSON                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-fish                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               1 hr 18 mins        ███████████████░░░░░░░░░░   60.24 % 
+JSON                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Go                       19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+fish                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Neovim                   1 hr 44 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
