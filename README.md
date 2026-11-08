@@ -53,17 +53,17 @@ Sunday                   836 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               5 hrs 30 mins       ████████████████░░░░░░░░░   63.35 % 
-Go                       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-bigfile                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Zimpl                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript               6 hrs 37 mins       ██████████████████░░░░░░░   70.57 % 
+Go                       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+bigfile                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Zimpl                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 42 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
