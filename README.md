@@ -26,5 +26,51 @@
 <br/>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5390 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌆 Daytime                7711 commits        ████████████░░░░░░░░░░░░░   46.42 % 
+🌃 Evening                3414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3278 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Tuesday                  2804 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Friday                   3234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Saturday                 626 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Sunday                   836 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+JavaScript               4 hrs 44 mins       ██████████████████░░░░░░░   73.79 % 
+JSON                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+conf                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔥 Editors: 
+Neovim                   6 hrs 25 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    6 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
